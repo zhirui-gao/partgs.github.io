@@ -1,6 +1,6 @@
 # Learning Self-supervised Part-aware 3D Hybrid Representations of 2D Gaussians and Superquadrics
 
-This is the repository that contains source code for the [PartGS website](https://zhirui-gao.github.io/PoseProbe.github.io/).
+This is the repository that contains source code for the [PartGS website](https://zhirui-gao.github.io/partgs.github.io/).
 
 If you find this work useful for your work please cite:
 ```
